@@ -24,6 +24,12 @@ The following are some motivating philosophies:
 
 PikaPods is a great platform for hosting open source apps. They currently offer a $5 credit for new members and it costs as little as $2.40/month to host your Haven on PikaPods.  You don't even need to give them a credit card to get the $5 credit and try out Haven for a couple of months.
 
+## Railyard
+
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/havenweb/haven)
+
+Railyard is a free, BYO-server PaaS. It deploys Haven to a server in your own DigitalOcean, Hetzner, Vultr or AWS account, reading the Dockerfile in this repo directly, with no markup on compute.
+
 ## Caliber Node
 
 [Run Haven on Caliber Node](https://calibernode.com/cloud-apps/haven) "One-click self-hosted apps, managed for you — with real logs, SFTP, and your data exportable."  Running Haven on Caliber Node costs $4 per month, they provide a $5 sign-up credit for new members--no credit card needed for the credit.
